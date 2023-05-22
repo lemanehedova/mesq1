@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.user{
+    background-image: url(https://media.istockphoto.com/id/652628318/photo/caffee-on-table-and-blured-cafe.jpg?s=170667a&w=0&k=20&c=3DPBS1fcB_sGTmiyUmCC12seh3qMbSnq0mrK1tDXa14=) ;
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    height: 600px;
+    font-size: 18px;
+    
+}
+.main1, .main2,.main3{
+  margin-top: 200px;
+    width: 300px;
+    background-color: azure;
+    margin-left: 20px;
+}
+.main1 .pct1{
+   
+display: flex;
+display: inline-block;
+}
+.main ,.foot ,.end{
+    display: flex;
+   justify-content: space-around;
+}
+.txt{
+    margin-top: 300px;
+    color: #f1efef;
+    text-align: center;
+    font-size: 50px;
+}
+
+.end1 {
+    background-image:url(https://res.klook.com/image/upload/Mobile/City/swox6wjsl5ndvkv5jvum.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+.end2{
+    background-image:url(https://cdn.britannica.com/68/198168-050-16D23B84/Cove-port-coast-Black-Sea-Turkey-Amasra.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+.end3{
+    background-image:url(https://a.travel-assets.com/findyours-php/viewfinder/images/res70/339000/339656-Downtown-Miami.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+.end4{
+    background-image:url(https://banco.az/sites/default/files/nyu%20york.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    width: 200px;
+    height: 200px;
+    margin: 50px; 
+}
+.end5{
+    background-image:url(https://res.cloudinary.com/duu3v9gfg/image/fetch/t_fit_1920/https://78884ca60822a34fb0e6-082b8fd5551e97bc65e327988b444396.ssl.cf3.rackcdn.com/up/2022/11/_D859762-1-1667589414-1667589414.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
